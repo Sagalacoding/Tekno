@@ -1,4 +1,4 @@
-![Screenshot (409)](https://github.com/user-attachments/assets/30a8ab26-5869-46a1-8754-f1dc3c33c5dc)## Aplikasi Web Rekap Data
+## Aplikasi Web Rekap Data
 
 <p> Aplikasi yang berbasis web dimana apk ini untuk mempermudah proses rekap data/barang.</p>
 <p> Disini kami menggunakan bahasa pemrograman php dengan menggunakan database MySQL </p>
