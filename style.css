@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f3f3f3;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 200px;
+    background: #2e2e2e;
+    color: #fff;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .sidebar h2 {
+    margin-top: 0;
+  }
+  
+  .nav-btn {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    background: #8000ff;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .nav-btn.logout {
+    background: #cc0000;
+  }
+  
+  .content {
+    flex-grow: 1;
+    padding: 20px;
+  }
+  
+  .input-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .input-form input, .input-form button {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .input-form button {
+    background: #8000ff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+  }
+  
+  table th, table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  table thead {
+    background: #8000ff;
+    color: white;
+  }
+  /* login */
+  
